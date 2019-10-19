@@ -10,3 +10,9 @@
 
 ### Part 1: Orientation and setup
 ![Part 1](/images/p1.jpg)
+
+--------------
+
+### Part 2: Containerizing an Application
+![Part 2](/images/p2.jpg)
+![Part 2](/images/p2_2.jpg)
