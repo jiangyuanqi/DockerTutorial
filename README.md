@@ -16,3 +16,7 @@
 ### Part 2: Containerizing an Application
 ![Part 2](/images/p2.jpg)
 ![Part 2](/images/p2_2.jpg)
+
+--------------
+
+### Part 3: Deploying to Kubernetes
