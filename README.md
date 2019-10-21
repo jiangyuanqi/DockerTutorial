@@ -20,3 +20,4 @@
 --------------
 
 ### Part 3: Deploying to Kubernetes
+![Part 3](/images/p3.jpg)
